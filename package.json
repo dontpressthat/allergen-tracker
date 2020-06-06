@@ -12,7 +12,7 @@
     "@react-navigation/bottom-tabs": "^5.2.7",
     "@react-navigation/material-bottom-tabs": "^5.1.9",
     "@react-navigation/native": "^5.1.6",
-    "apollo-server": "^2.12.0",
+    "apollo-server": "^2.14.2",
     "autocorrect": "^1.2.0",
     "axios": "^0.19.2",
     "expo": "~37.0.3",
